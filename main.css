@@ -1,0 +1,9 @@
+.device{
+    display: block;
+}
+
+.port{
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+}
